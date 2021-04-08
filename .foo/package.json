@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "vue-router": "3.5.1"
+  },
+  "devDependencies": {
+    "typescript": "4.2.3"
+  },
+  "browserslist": [
+    "Chrome > 50"
+  ]
+}
